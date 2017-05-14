@@ -1,5 +1,5 @@
 <?PHP
 
-echo phpinfo();
+phpinfo();
 
 ?>
